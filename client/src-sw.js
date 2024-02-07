@@ -21,7 +21,7 @@ const pageCache = new CacheFirst({
   ],
 });
 
-// Define an offline fallback strategy using offlineFallback
+/* // Define an offline fallback strategy using offlineFallback
 const offlineFallback = offlineFallback({
   cacheName: "offline-fallback-cache",
   plugins: [
@@ -30,7 +30,7 @@ const offlineFallback = offlineFallback({
       statuses: [0, 200],
     }),
   ],
-});
+}); */
 
 warmStrategyCache({
   urls: ["/index.html", "/"],
