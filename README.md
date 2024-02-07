@@ -20,7 +20,7 @@ Code Keeper is a browser-supported web app AND an installable PWA. Upon visiting
 - Web application usage
 ![online-use](assets/img/app-demo-image.png)
 - Locally installed app usage
-![offline-use](assets/img/app-demo-image.png)
+![offline-use](assets/img/installed-app-demo-image.png)
 
 ## Credits
 
