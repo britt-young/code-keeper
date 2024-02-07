@@ -1,6 +1,6 @@
 /* app shell CSS */
 :root {
-  --primary: #31a9e1;
+  --primary: #198072;
   --gray: #ececec;
   --whitesmoke: #f5f5f5;
   --dark: #222;
@@ -90,7 +90,7 @@ h1 {
   border-radius: 0.3rem;
   border: 1px solid transparent;
   outline: none;
-  color: #1a1a1a;
+  color: #deaa1c;
   background-color: #aeaeae;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 }
