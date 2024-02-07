@@ -3,7 +3,11 @@
 
 ## Description
 
-AS A developer, I WANT to create notes or code snippets with or without an internet connection, SO THAT I can reliably retrieve them for later use
+AS A developer, 
+
+I WANT to create notes or code snippets with or without an internet connection,
+
+SO THAT I can reliably retrieve them for later use
 
 ## Table of Contents
 
@@ -14,6 +18,7 @@ AS A developer, I WANT to create notes or code snippets with or without an inter
 
 ## Installation
 Live Application can be found at [https://code-keeper1.onrender.com](https://code-keeper1.onrender.com)
+
 Code Keeper is a browser-supported web app AND an installable PWA. Upon visiting the deployed web app, users will have the option to install the app locally. After installation, users can create a desktop app and use it offline.
 
 ## Usage
